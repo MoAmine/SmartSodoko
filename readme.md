@@ -1,5 +1,5 @@
 # SmartSudoku
-Une application Andoroid qui permet de jouer au fameux Sudoku créée dans le cadre d'un projet scolaire.
+Une application Andoroid qui permet de jouer au fameu Sudoku créée dans le cadre d'un projet scolaire.
 # Technologies & outils techniques : 
 +Java.    
 +XML.     
